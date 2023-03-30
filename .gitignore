@@ -1,3 +1,6 @@
 .*.swp
 __pycache__
 10ktrajectory.pt
+10_200k.pt
+10r_100k.pt
+10r_200k.pt
