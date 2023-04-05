@@ -5,3 +5,6 @@ __pycache__
 10r_100k.pt
 10r_200k.pt
 1miltraj.pt
+interregion_sparse_10p_trajectories.pt
+interregion_sparse.pt
+interregion10sparse_fixed_points.pt
